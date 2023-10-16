@@ -94,5 +94,7 @@ body {
 
 /* background images*/
 .bd-placeholder-img {
+  height: 60%;
+  width: 60%;
   background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleveland.com%2Ftravel%2F2021%2F11%2Finside-new-york-citys-newest-sky-high-view-summit-one-vanderbilt-equal-parts-art-exhibit-and-observation-deck.html&psig=AOvVaw1nPac77PsSWSnSF9rmbWjE&ust=1697510627957000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjUnoHG-YEDFQAAAAAdAAAAABAZ);
 }
