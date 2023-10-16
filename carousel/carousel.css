@@ -20,11 +20,12 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
-}
+  }
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
+  
 }
 .carousel-item > img {
   position: absolute;
@@ -92,9 +93,3 @@ body {
   }
 }
 
-/* background images*/
-.bd-placeholder-img {
-  height: 60%;
-  width: 60%;
-  background-image:url('https://www.cleveland.com/resizer/6YN04_dX1AlaSo2YJPe9SEQ_a3s=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6T6GD2MN6JEA7LL7WNV7LBRJU4.JPEG');
-}
